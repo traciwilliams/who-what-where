@@ -3,7 +3,7 @@ body {
 }
 
 #wrapper {
-	width: 960px;
+	width: 1200px;
 	background-color: green;
 	margin: 0 auto;
 }
@@ -40,4 +40,36 @@ body {
 .main-nav a:hover {
 	background-color: black;
 	color: yellow;
+}
+
+
+/*===========WHO SECTION===========*/
+.who {
+	height: 600px;
+	width: 100%;
+	background-color: green;
+	color: white;
+}
+
+/*===========WHAT SECTION===========*/
+.what {
+	height: 300px;
+	width: 100%;
+	background-color: grey;
+	color: white;
+}
+
+/*===========WHERE SECTION===========*/
+.where {
+	height: 600px;
+	width: 100%;
+	background-color: black;
+	color: white;
+}
+/*===========FOOTER=================*/
+footer {
+	height: 50px;
+	width: 100%;
+	background-color: lightgrey;
+	color: white;
 }
