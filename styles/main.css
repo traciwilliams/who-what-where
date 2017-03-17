@@ -66,6 +66,7 @@ h1 {
 .spacing {
 	//margin: 100px 10px 100px 10px;
 	padding: 50px 10px 50px 10px;
+	font-size: 36px;
 }
 
 img {
@@ -95,7 +96,6 @@ img {
 .where {
 	height: 550px;
 	width: 100%;
-	//background-color: black;
 	color: white;
 }
 
@@ -104,7 +104,7 @@ form {
 	width: 50%;
 	height: 150px;
 	color: #fcb623;
-	padding: 120px 10px 0 350px;
+	padding: 100px 10px 0 340px;
 	margin: 10px 10px 0 10px;
 	font-family: 'Poiret One', cursive;
 }
@@ -161,9 +161,12 @@ input placeholder {
 }
 
 .whereformat {
+	width: 100%;
+	font-size: 36px;
 	text-align: center;
-	color: white;
-	margin: -100px 10px 160px 10px;
+	color: #fcb623;
+	margin: -90px 10px 140px 10px;
+	background-color: rgba(25, 55, 5, 0.25);
 }
 /*===========FOOTER=================*/
 footer {
@@ -171,6 +174,6 @@ footer {
 	width: 100%;
 	background-color: #42297a;
 	color: white;
-	padding-top: 10px;
+	//padding-top: 10px;
 
 }
